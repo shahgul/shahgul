@@ -15,11 +15,6 @@
 - **Databases:** PostgreSQL, SQLite, SQL, DynamoDB
 - **Frontend:** HTML, React (beginner)  
 
-## 📌 What I'm Up To  
-- Building **middleware for contact center messaging** on AWS.  
-- Learning **Grails** and refining my **React skills**.  
-- Developing **real-time stock exchange data processing** using WebSockets.  
-
 <!---
 shahgul/shahgul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
