@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m @shahgul
 
+- I love integrating things and build backends.
+
 ## 🚀 About Me  
 - Building **scalable and high-performance APIs** using Java, Groovy, and AWS.  
 - Passionate about **backend development**, event-driven systems, and **real-time data processing**.  
